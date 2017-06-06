@@ -1,0 +1,12 @@
+[submodule "homework/log4j-appender-extension"]
+	path = homework/log4j-appender-extension
+	url = git@github.com:lordoftheflies/log4j-appender-extension.git
+[submodule "homework/wonderjam"]
+	path = homework/wonderjam
+	url = git@github.com:lordoftheflies/wonderjam.git
+[submodule "homework/tictactoe"]
+	path = homework/tictactoe
+	url = git@github.com:lordoftheflies/tictactoe-java.git
+[submodule "homework/rmq-sender"]
+	path = homework/rmq-sender
+	url = git@github.com:lordoftheflies/rmq-sender.git
