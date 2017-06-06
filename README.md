@@ -1,2 +1,4 @@
 # soter-java-junior-educatio
-Java Junior fejlesztői képzés a Soter részére.
+Java EE Junior developer course for Soter.
+
+1. lecture: [[JAAS]](Lecture JAAS)
