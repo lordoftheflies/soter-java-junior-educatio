@@ -7,8 +7,8 @@ Java EE Junior developer course for Soter.
 
 ## Homework checking system (HCS)
 
-You could register [here](https://ci.cherubits.hu)
-Homework states [here](https://ci.cherubits.hu/blue/pipelines)
+* You could register [here](https://ci.cherubits.hu)
+* Homework states [here](https://ci.cherubits.hu/blue/pipelines)
 
 IMPORTANT: Please register to Github and the HCS with the same username and email.
 
