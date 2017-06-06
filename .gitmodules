@@ -10,3 +10,6 @@
 [submodule "homework/rmq-sender"]
 	path = homework/rmq-sender
 	url = git@github.com:lordoftheflies/rmq-sender.git
+[submodule "sample/jaas-example"]
+	path = sample/jaas-example
+	url = git@github.com:lordoftheflies/jaas-example.git
