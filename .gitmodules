@@ -1,15 +1,15 @@
 [submodule "homework/log4j-appender-extension"]
 	path = homework/log4j-appender-extension
-	url = git@github.com:lordoftheflies/log4j-appender-extension.git
+	url = https://github.com/lordoftheflies/log4j-appender-extension.git
 [submodule "homework/wonderjam"]
 	path = homework/wonderjam
-	url = git@github.com:lordoftheflies/wonderjam.git
+	url = https://github.com/lordoftheflies/wonderjam.git
 [submodule "homework/tictactoe"]
 	path = homework/tictactoe
-	url = git@github.com:lordoftheflies/tictactoe-java.git
+	url = https://github.com/lordoftheflies/tictactoe-java.git
 [submodule "homework/rmq-sender"]
 	path = homework/rmq-sender
-	url = git@github.com:lordoftheflies/rmq-sender.git
+	url = https://github.com/lordoftheflies/rmq-sender.git
 [submodule "sample/jaas-example"]
 	path = sample/jaas-example
-	url = git@github.com:lordoftheflies/jaas-example.git
+	url = https://github.com/lordoftheflies/jaas-example.git
