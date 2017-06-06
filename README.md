@@ -3,7 +3,7 @@ Java EE Junior developer course for Soter.
 
 ## Lectures
 
-1. lecture: [JAAS](https://github.com/lordoftheflies/soter-java-junior-educatio/wiki/Lecture-JAAS)
+20. lecture: [JAAS](https://github.com/lordoftheflies/soter-java-junior-educatio/wiki/Lecture-JAAS)
 
 ## Homework checking system (HCS)
 
